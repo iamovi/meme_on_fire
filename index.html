@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Meme Generator</title>
+</head>
+<body>
+    <div class="container">
+        <div class="meme-container">
+            <img id="memeImage" src="./.github/meme.png" alt="Meme Image">
+            <div class="top-text" contenteditable="true" oninput="updateText('top')"></div>
+            <div class="bottom-text" contenteditable="true" oninput="updateText('bottom')"></div>
+        </div>
+        <button onclick="generateMeme()">Generate Meme</button>
+    </div>
+    <script src="./assets/script.js"></script>
+</body>
+</html>
