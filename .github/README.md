@@ -1,5 +1,7 @@
 # meme_on_fire
 
+![banner](../default_meme/meme.png)
+
 Generates random meme with a click.
 
 ## Site /
