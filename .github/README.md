@@ -4,7 +4,7 @@ Generates random meme with a click.
 
 ## Site /
 
-[https://iamovi.github.io/meme_on_fire/]
+[https://iamovi.github.io/meme_on_fire/](https://iamovi.github.io/meme_on_fire/)
 
 ## Dependencies
 
